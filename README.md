@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## About Me<br><br>I'm a final-year Engineering student in Statistics and Information Analysis at ESSAI, University of Carthage, Tunisia, focused on **Applied AI, Machine Learning, and Data Science**.<br><br>I build data-driven solutions that connect technical innovation with real-world business problems — from predictive analytics and customer intelligence to Generative AI, RAG systems, and multi-agent architectures.<br><br>**What I work with**<br>- **AI & Machine Learning:** Python, Scikit-learn, XGBoost, LightGBM, PyTorch<br>- **Data Engineering:** SQL, PySpark, PostgreSQL, Elasticsearch<br>- **Generative AI:** LLMs, RAG, LangChain, LangGraph, Vector Databases<br>- **Analytics:** Statistical Modeling, Econometrics, Time Series Forecasting, Power BI<br>- **Development:** FastAPI, Docker, Git<br><br>I'm particularly interested in projects at the intersection of **AI, business strategy, customer analytics, healthcare, and decision intelligence**.<br><br>Currently exploring how to turn raw data into reliable models, practical AI systems, and measurable business impact.<br><br>*I turn real-world cases into measurable AI.*<br>
 
 
@@ -11,14 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=Belaiiiid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Belaiiiid&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Belaiiiid&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Belaiiiid&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Belaiiiid&limit=5&theme=default&combine_all_yearly_contributions=true)
+e)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Belaiiiid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
